@@ -1,0 +1,4 @@
+django-tutorial
+===============
+
+Practicing Django
